@@ -25,7 +25,7 @@ sudo ./docker-compose.sh
 
 Ces deux scripts on été plusieurs fois testés sur des système Ubuntu Trusty et Xenial. Pourtant, il se peut qu'ils ne fonctionnent pas en fonction de la version de votre kernel.
 
-Merci de consulter les spécifications de Docker dans le cas où ces scripts ne fonctionnerait pas.
+Merci de consulter les [spécifications de Docker](https://docs.docker.com/engine/installation/linux/ubuntulinux/) dans le cas où ces scripts ne fonctionnerait pas.
 
 ### Contribution
 
